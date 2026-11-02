@@ -1,9 +1,9 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: 4.5.0
+_commit: 5.0.0
 _src_path: https://github.com/epics-containers/ioc-template
+arm64: true
 description: The Generic ioc for the ZEBRA stand-alone event handling system.
 git_platform: github.com
 github_org: epics-containers
 name: ioc-zebra
 repo_uri: git@github.com:epics-containers/ioc-zebra.git
-rtems: false
